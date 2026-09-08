@@ -1,18 +1,16 @@
            SOVEREIGN 
 
-           Publishing 
-           ---------- 
+           PUBLISHING 
 
 Licensing: Content in this text file 
            is licensed under a Creative 
            Commons Attribution 4.0 
            International license. 
 Author: Nick Morris. 
-Release: Saturday, September 5th 2026. 
+Release: Tuesday, September 8th 2026. 
 Location: Philadelphia, PA. 
 
-           Contents 
-           -------- 
+           CONTENTS 
 
 TALE 
 CORE: PRIMARY BOOK 
@@ -39,18 +37,27 @@ CREATION: GARDEN BOOK
  Vertumus 
 HISTORY: THE PRESERIES 
  J.G. 
- Outside 
  R.I.T. 
+ Outside 
  Survivor 
 
            TALE 
 
-Maslows Hierarchy of Needs, 
-Capture The Flag, 
-Bridge Troll, 
-Wisp, 
-physical adventure, 
-mental obstacle course. 
+Free Masons, Industrialists, and 
+Philosophers are sources of inspiration 
+for my life's work. I physically and 
+mentally want to build and manage 
+systems from the ground up: one for my 
+individuality and one for my 
+environment. 
+
+Maslows Hierarchy of Needs: my opponent. 
+Capture The Flag: my game. 
+Bridge Troll: penal colony. 
+Wisp: reward system. 
+Outward: physical adventure. 
+Inward: mental obstacle course. 
+
 
            CORE: PRIMARY BOOK 
 
