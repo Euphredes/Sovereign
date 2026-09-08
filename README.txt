@@ -58,11 +58,35 @@ Wisp: reward system.
 Outward: physical adventure. 
 Inward: mental obstacle course. 
 
-
            CORE: PRIMARY BOOK 
 
+           --------- 
+           Greanleaf  
+           --------- 
+
+           Contents 
+           -------- 
+
+Introduction                         - 
+Counties                             II. 
+Person                               III. 
+Table                                XI. 
+Mysticism                            XIII. 
 
            MYSTERY: SECOND SERIES 
+
+           --------- 
+           Greanleaf  
+           --------- 
+
+           Contents 
+           -------- 
+
+Introduction                         - 
+Counties                             II. 
+Person                               III. 
+Table                                XI. 
+Mysticism                            XIII. 
 
 
            RESTORATION: THIRD SERIES 
@@ -75,3 +99,7 @@ Inward: mental obstacle course.
 
 
            HISTORY: THE PRESERIES 
+
+           ***** 
+            *** 
+             * 
