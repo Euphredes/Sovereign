@@ -10,7 +10,7 @@ Author: Nick Morris.
 Release: Tuesday, September 8th 2026. 
 Location: Philadelphia, PA. 
 
-           BOOKS 
+           COLLECTION 
 
 TALE 
 AUTHORITY 
@@ -34,7 +34,7 @@ BOUNTY
  Fighter 
  Poet 
 GARDEN 
- Vertumus 
+ Vertumnus 
 PRESERIES 
  J.G. 
  R.I.T. 
@@ -54,7 +54,7 @@ environment.
 Maslows Hierarchy of Needs: my opponent. 
 Capture The Flag: my game. 
 Bridge Troll: penal colony. 
-Wisp: reward system. 
+Wisp: euphoria. 
 Outward: physical adventure. 
 Inward: mental obstacle course. 
 
@@ -189,7 +189,7 @@ Hut                                  XXXIV.
            -------- 
 
 Introduction                         - 
-Mojo Bags                            II. 
+Bags                                 II. 
 Books                                IX. 
 Altar                                XVIII. 
 Chest                                XXXIV. 
@@ -301,7 +301,7 @@ Trellis                              XXXIV.
 Introduction                         - 
 Master                               II. 
 Virtues                              IX. 
-Lodge                                XVIII. 
+Initiation                           XVIII. 
 Geometry                             XXXIV. 
 
            ------ 
