@@ -13,29 +13,29 @@ Location: Philadelphia, PA.
            CONTENTS 
 
 TALE 
-CORE: PRIMARY BOOK 
+AUTHORITY 
  Greanleaf 
-MYSTERY: SECOND SERIES 
+MYSTERY 
  Phaedrah 
  Possessed 
  Bridgewater 
  Chesapeake 
  Boston 
  Philadelphia 
-RESTORATION: THIRD SERIES 
+RESTORATION 
  Camper 
  Campsite 
  Artifacts 
  Pleasure 
-INDUSTRY: BOUNTY SERIES 
+BOUNTY 
  Consultation 
  Python 
  Walker 
  Fighter 
  Poet 
-CREATION: GARDEN BOOK 
+GARDEN 
  Vertumus 
-HISTORY: THE PRESERIES 
+PRESERIES 
  J.G. 
  R.I.T. 
  Outside 
@@ -58,7 +58,7 @@ Wisp: reward system.
 Outward: physical adventure. 
 Inward: mental obstacle course. 
 
-           CORE: PRIMARY BOOK 
+           AUTHORITY 
 
            --------- 
            Greanleaf  
@@ -73,7 +73,7 @@ Person                               III.
 Table                                XI. 
 Mysticism                            XIII. 
 
-           MYSTERY: SECOND SERIES 
+           MYSTERY 
 
            --------- 
            Greanleaf  
@@ -89,16 +89,16 @@ Table                                XI.
 Mysticism                            XIII. 
 
 
-           RESTORATION: THIRD SERIES 
+           RESTORATION 
 
 
-           INDUSTRY: BOUNTY SERIES 
+           BOUNTY 
 
 
-           CREATION: GARDEN BOOK 
+           GARDEN 
 
 
-           HISTORY: THE PRESERIES 
+           PRESERIES 
 
            ***** 
             *** 
