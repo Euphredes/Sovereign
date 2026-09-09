@@ -40,11 +40,10 @@ BOUNTIFUL
  Fighter 
  Poet 
 
-
            Introduction 
            ------------ 
 
-           Story 
+           Storyline 
 
            Approach 
 
