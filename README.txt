@@ -1,6 +1,9 @@
+
+
            SOVEREIGN 
 
-           PUBLISHING 
+
+           Publishing 
 
 Licensing: Content in this text file 
            is licensed under a Creative 
@@ -10,11 +13,15 @@ Author: Nick Morris.
 Release: Tuesday, September 8th 2026. 
 Location: Philadelphia, PA. 
 
-           COLLECTION 
+           Contents 
 
-TALE 
+Introduction 
 AUTHORITY 
  Greanleaf 
+ J.G. 
+ R.I.T. 
+ Outside 
+ Survivor 
 MYSTERY 
  Phaedrah 
  Possessed 
@@ -23,25 +30,25 @@ MYSTERY
  Boston 
  Philadelphia 
 RESTORATION 
- Camper 
  Campsite 
  Artifacts 
  Pleasure 
-BOUNTY 
- Consultation 
- Python 
+BOUNTIFUL 
+ Consultant 
+ Engineer 
  Walker 
  Fighter 
  Poet 
-GARDEN 
- Vertumnus 
-PRESERIES 
- J.G. 
- R.I.T. 
- Outside 
- Survivor 
 
-           TALE 
+
+           Introduction 
+           ------------ 
+
+           Story 
+
+           Approach 
+
+           Execution 
 
 Free Masons, Industrialists, and 
 Philosophers are sources of inspiration 
@@ -58,290 +65,249 @@ Wisp: euphoria.
 Outward: physical adventure. 
 Inward: mental obstacle course. 
 
+
            AUTHORITY 
+
 
            --------- 
            Greanleaf 
            --------- 
 
-           Contents 
-           -------- 
+           Contents  
 
-Introduction                         - 
-Counties                             II. 
-Person                               III. 
-Table                                XI. 
-Mysticism                            XIII. 
-
-           MYSTERY 
-
-           -------- 
-           Phaedrah 
-           -------- 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Protection                           II. 
-Love                                 IX. 
-Trials                               XVIII. 
-Loyalty                              XXXIV. 
-
-           --------- 
-           Possessed 
-           --------- 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Invocation                           II. 
-Acoustics                            IX. 
-Haptics                              XXXIV. 
-Passage                              XXXIV. 
-
-           ----------- 
-           Bridgewater 
-           ----------- 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Candles                              II. 
-Walks                                IX. 
-Swamp                                XVIII. 
-Triangle                             XXXIV. 
-
-           ---------- 
-           Chesapeake 
-           ---------- 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Candles                              II. 
-Walks                                IX. 
-Bay                                  XVIII. 
-Triangle                             XXXIV. 
-
-           ------ 
-           Boston 
-           ------ 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Candles                              II. 
-Walks                                IX. 
-Walden                               XVIII. 
-Triangle                             XXXIV. 
-
-           ------------ 
-           Philadelphia 
-           ------------ 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Candles                              II. 
-Walks                                IX. 
-Delaware                             XVIII. 
-Triangle                             XXXIV. 
-
-           RESTORATION 
-
-           ------ 
-           Camper 
-           ------ 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Woodland                             II. 
-Parttime                             IX. 
-Gym                                  XVIII. 
-Detox                                XXXIV. 
-
-           -------- 
-           Campsite 
-           -------- 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Firepit                              II. 
-Waterfront                           IX. 
-Table                                XVIII. 
-Hut                                  XXXIV. 
-
-           --------- 
-           Artifacts 
-           --------- 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Bags                                 II. 
-Books                                IX. 
-Altar                                XVIII. 
-Chest                                XXXIV. 
-
-           -------- 
-           Pleasure 
-           -------- 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Drink                                II. 
-Smoke                                IX. 
-Touch                                XVIII. 
-Landscape                            XXXIV. 
-
-           BOUNTY 
-
-           ------------ 
-           Consultation 
-           ------------ 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Layout                               II. 
-Flow                                 IX. 
-Evasion                              XVIII. 
-Property                             XXXIV. 
-
-           ------ 
-           Python 
-           ------ 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Datatables                           II. 
-Graphs                               IX. 
-Models                               XVIII. 
-Predictions                          XXXIV. 
-
-           ------ 
-           Walker 
-           ------ 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Automatic                            II. 
-Bimble                               IX. 
-Circles                              XVIII. 
-Snake                                XXXIV. 
-
-           ------- 
-           Fighter 
-           ------- 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Walkaway                             II. 
-Headlock                             IX. 
-Brawl                                XVIII. 
-Wall                                 XXXIV. 
-
-           ---- 
-           Poet 
-           ---- 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Table                                II. 
-Bank                                 IX. 
-Square                               XVIII. 
-Map                                  XXXIV. 
-
-           GARDEN 
-
-           --------- 
-           Vertumnus 
-           --------- 
-
-           Contents 
-           -------- 
-
-Introduction                         - 
-Trees                                II. 
-Plants                               IX. 
-Weather                              XVIII. 
-Trellis                              XXXIV. 
-
-           PRESERIES 
+Introduction 
+Counties 
+Person 
+Table 
+Mysticism 
 
            ---- 
            J.G. 
            ---- 
 
-           Contents 
-           -------- 
+           Contents  
 
-Introduction                         - 
-Master                               II. 
-Virtues                              IX. 
-Initiation                           XVIII. 
-Geometry                             XXXIV. 
+Introduction 
+Master 
+Virtues 
+Initiation 
+Geometry 
 
            ------ 
            R.I.T. 
            ------ 
 
            Contents 
-           -------- 
 
-Introduction                         - 
-Freshman                             II. 
-Sophomore                            IX. 
-Deans                                XVIII. 
-PhD                                  XXXIV. 
+Introduction 
+Freshman 
+Sophomore 
+Deans 
+PhD 
 
            ------- 
            Outside 
            ------- 
 
            Contents 
-           -------- 
 
-Introduction                         - 
-Northeast                            II. 
-Hudson                               IX. 
-Delaware                             XVIII. 
-Chesapeake                           XXXIV. 
+Introduction 
+Northeast 
+Hudson 
+Delaware 
+Chesapeake 
 
            -------- 
            Survivor 
            -------- 
 
            Contents 
+
+Introduction 
+Walkabout 
+Boston 
+Philadelphia 
+Harford 
+
+
+           MYSTERY 
+
+
+           -------- 
+           Phaedrah 
            -------- 
 
-Introduction                         - 
-Walkabout                            II. 
-Boston                               IX. 
-Philadelphia                         XVIII. 
-Harford                              XXXIV. 
+           Contents 
+
+Introduction 
+Protection 
+Love 
+Trials 
+Loyalty 
+
+           --------- 
+           Possessed 
+           --------- 
+
+           Contents 
+
+Introduction 
+Invocation 
+Acoustics 
+Haptics 
+Passage 
+
+           ----------- 
+           Bridgewater 
+           ----------- 
+
+           Contents 
+
+Introduction 
+Candles 
+Walks 
+Swamp 
+Triangle 
+
+           ---------- 
+           Chesapeake 
+           ---------- 
+
+           Contents 
+
+Introduction 
+Candles 
+Walks 
+Bay 
+Triangle 
+
+           ------ 
+           Boston 
+           ------ 
+
+           Contents 
+
+Introduction 
+Candles 
+Walks 
+Walden 
+Triangle 
+
+           ------------ 
+           Philadelphia 
+           ------------ 
+
+           Contents 
+
+Introduction 
+Candles 
+Walks 
+Delaware 
+Triangle 
+
+
+           RESTORATION 
+
+
+           -------- 
+           Campsite 
+           -------- 
+
+           Contents 
+
+Introduction 
+Firepit 
+Waterfront 
+Site 
+Winter 
+
+           --------- 
+           Artifacts 
+           --------- 
+
+           Contents 
+
+Introduction 
+Bags 
+Books 
+Altar 
+Chest 
+
+           -------- 
+           Pleasure 
+           -------- 
+
+           Contents 
+
+Introduction 
+Drink 
+Smoke 
+Touch 
+Landscape 
+
+
+           BOUNTIFUL 
+
+
+           ---------- 
+           Consultant 
+           ---------- 
+
+           Contents 
+
+Introduction 
+Layout 
+Flow 
+Evasion 
+Property 
+
+           -------- 
+           Engineer 
+           -------- 
+
+           Contents 
+
+Introduction 
+Tables 
+Graphs 
+Models 
+Predictions 
+
+           ------ 
+           Walker 
+           ------ 
+
+           Contents 
+
+Introduction 
+Automatic 
+Bimble 
+Circles 
+Snake 
+
+           ------- 
+           Fighter 
+           ------- 
+
+           Contents 
+
+Introduction 
+Walkaway 
+Headlock 
+Brawl 
+Wall 
+
+           ---- 
+           Poet 
+           ---- 
+
+           Contents 
+
+Introduction 
+Table 
+Bank 
+Square 
+Map 
 
            ***** 
             *** 
