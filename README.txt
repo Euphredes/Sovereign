@@ -236,7 +236,7 @@ Introduction
 Layout 
 Flow 
 Evasion 
-Property 
+Inventory 
 
            -------- 
            Engineer 
