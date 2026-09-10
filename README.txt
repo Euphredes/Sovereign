@@ -59,7 +59,7 @@ Inward: mental obstacle course.
            Greanleaf 
            --------- 
 
-           Contents  
+           Contents 
 
 Introduction 
 Counties 
@@ -67,11 +67,23 @@ Person
 Table 
 Mysticism 
 
+           --------- 
+           Haverhill 
+           --------- 
+
+           Contents 
+
+Introduction 
+Arlington 
+Farrwood 
+Lawrence 
+Hampton 
+
            ---- 
            J.G. 
            ---- 
 
-           Contents  
+           Contents 
 
 Introduction 
 Master 
