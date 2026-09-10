@@ -1,6 +1,7 @@
 
 
            SOVEREIGN 
+           AN AUTOBIOGRAPHY 
 
 
            Publishing 
@@ -13,32 +14,17 @@ Author: Nick Morris.
 Release: Tuesday, September 8th 2026. 
 Location: Philadelphia, PA. 
 
+           --------- 
+           Sovereign 
+           --------- 
+
            Contents 
 
 Introduction 
 AUTHORITY 
- Greanleaf 
- J.G. 
- R.I.T. 
- Outside 
- Survivor 
 MYSTERY 
- Phaedrah 
- Possessed 
- Bridgewater 
- Chesapeake 
- Boston 
- Philadelphia 
 RESTORATION 
- Campsite 
- Artifacts 
- Pleasure 
 BOUNTIFUL 
- Consultant 
- Engineer 
- Walker 
- Fighter 
- Poet 
 
            Introduction 
            ------------ 
@@ -47,7 +33,7 @@ BOUNTIFUL
 
            Approach 
 
-           Execution 
+           Responsibilities 
 
 Free Masons, Industrialists, and 
 Philosophers are sources of inspiration 
@@ -66,6 +52,7 @@ Inward: mental obstacle course.
 
 
            AUTHORITY 
+           A PHILOSOPHY 
 
 
            --------- 
@@ -116,20 +103,9 @@ Hudson
 Delaware 
 Chesapeake 
 
-           -------- 
-           Survivor 
-           -------- 
-
-           Contents 
-
-Introduction 
-Walkabout 
-Boston 
-Philadelphia 
-Harford 
-
 
            MYSTERY 
+           A SPIRITUALITY 
 
 
            -------- 
@@ -143,18 +119,6 @@ Protection
 Love 
 Trials 
 Loyalty 
-
-           --------- 
-           Possessed 
-           --------- 
-
-           Contents 
-
-Introduction 
-Invocation 
-Acoustics 
-Haptics 
-Passage 
 
            ----------- 
            Bridgewater 
@@ -206,6 +170,7 @@ Triangle
 
 
            RESTORATION 
+           A PSYCHOLOGY 
 
 
            -------- 
@@ -217,7 +182,7 @@ Triangle
 Introduction 
 Firepit 
 Waterfront 
-Site 
+Sites 
 Winter 
 
            --------- 
@@ -246,6 +211,7 @@ Landscape
 
 
            BOUNTIFUL 
+           A MAN 
 
 
            ---------- 
@@ -307,6 +273,15 @@ Table
 Bank 
 Square 
 Map 
+
+           --------- 
+           Euphredes 
+           --------- 
+
+           Contents 
+
+Introduction 
+Movie 
 
            ***** 
             *** 
