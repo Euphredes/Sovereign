@@ -74,8 +74,8 @@ Mysticism
            Contents 
 
 Introduction 
-Arlington 
-Farrwood 
+Haverhill 
+Bradford 
 Lawrence 
 Hampton 
 
