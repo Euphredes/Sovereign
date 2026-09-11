@@ -1,7 +1,7 @@
 
 
            SOVEREIGN 
-           AN AUTOBIOGRAPHY 
+           A NOTEBOOK 
 
 
            Publishing 
