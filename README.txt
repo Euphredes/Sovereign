@@ -38,28 +38,29 @@ who I've been closest to, gambling
 over my life and death. 
 
 .it., this monster goes by many names. 
-Perhaps, you too reader distinguish it as 
-something other than what it is formally 
-named: ego. But who would want to deal 
-with such a dangerous perhaps? Who would 
-want to admit to such a mysterioius 
-duality that makes choices with you? For 
-that one must wish to take a detour in 
-one's life away from the hustle and 
-bustle that is society's contract: the 
-responsibilities of the people. One 
-must walk outside with .it., past 
+Perhaps you too, reader, call .it. 
+something different than: ego. But who 
+would want to deal with such a dangerous 
+perhaps? Who would want to admit to 
+such a mysterioius partner that makes 
+choices with you? For that one must 
+seek a detour in one's life away from 
+the hustle and bustle that is society's 
+contract: the responsibilities of the 
+people, for the people, by the people. 
+One must walk outside with .it., past 
 street signs far away from home that 
 remind one of what has already been 
-experienced is yet, somehow, still 
-around one in new places one is strange 
-to. So far removed from society's 
-duties, no one should pity you. There, 
-inwardly and outwardly, is where and 
-when I find myself contending with 
-a monster from Nietzsche: all that 
+experienced but yet, somehow, still 
+stay around one in new places that one 
+is strange to. So far removed from 
+society's duties, no one else should 
+pity such a detour. There! inwardly 
+and outwardly, is where and when I 
+find myself contending with this monster 
+Nietzsche tells me of: all that 
 is left of the famous, owld .it. I 
-lay claim to .it., knowing I'm not 
+lay claim to .it., knowing I am not 
 .it. 
 
 II. 
@@ -123,7 +124,7 @@ Mel is driving down the dirt road to his
 cabin, one day. He spots a truck turned 
 over in the ditch on the side of the 
 road. He finds a high ranking military 
-commander. Mel offers to drive him 
+commander. Mel offers to drive him to 
 where he must have needed to go before 
 the accident. 
 
@@ -135,15 +136,15 @@ hover over the lake like any of the
 loons taking flight. It's just practice, 
 the lake never gets assaulted. 
 
-The next day, the man Mel helped knocks 
-on Mel's cabin door. Mel lets him in. 
-The man unrolls a map with circles of 
-where all the deer are in the nearby 
-area because the man found out Mel 
-likes to hunt deer. because two men 
-found out one thing about the other, 
-both catch a break: a stepping stone 
-for one's next move. 
+The next day, the man who Mel helped 
+knocks on Mel's cabin door. Mel lets 
+him in. The man unrolls a map with 
+circles of where all the deer are in 
+the nearby area, because the man found 
+out Mel likes to hunt deer. because 
+two men found out one thing about the 
+other, both catch a break: a stepping 
+stone for one's next move. 
 
            Contents 
 
@@ -176,6 +177,19 @@ Outward
  Physical Adventure 
 Inward 
  Obstacle Course 
+
+Maslow tells me the way up is by 
+respecting the Hieracrhcy of Needs 
+he established. The bottom level 
+focuses on survival, the middle 
+level focuses on social life, and 
+the top level focuses on the 
+individual. The bottom must be 
+established first, then the middle, 
+and finally the top need can be 
+acheived: the crown jewel: the eye 
+on the pyramid of the dollar bill: 
+I am such and no one can stop that. 
 
            Approach 
 
