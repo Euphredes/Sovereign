@@ -1,7 +1,7 @@
 
 
            SHIP 
-           A NOTEBOOK 
+           AN EPIC 
 
 
            Publishing 
@@ -18,8 +18,9 @@ Location: Philadelphia, PA.
            Ship 
            ---- 
 
-           Claimer 
+           Claim 
 
+I. 
 A thought happens when .it. wants to, 
 not when I want it. The closest 
 experience I'm abused by daily, 
@@ -31,15 +32,118 @@ to cope: to overload my mind until some
 reaction within me, that is strong 
 enough, breaks thorugh my self-imposed 
 monotony. That reaction is a choice 
-for me to make or not. I feel like a 
-gambler with a stranger, who I've 
-been closest to, gambling over my 
-life and death. This monster is the 
-famous, owld .it. 
+for me to do something with or not. 
+I feel like a gambler with a stranger, 
+who I've been closest to, gambling 
+over my life and death. 
 
-When a person dies, all that one goes 
-to the grave with is just one's own 
-stories: that is the person's bounty. 
+.it., this monster goes by many names. 
+Perhaps, you too reader distinguish it as 
+something other than what it is formally 
+named: ego. But who would want to deal 
+with such a dangerous perhaps? Who would 
+want to admit to such a mysterioius 
+duality that makes choices with you? For 
+that one must wish to take a detour in 
+one's life away from the hustle and 
+bustle that is society's contract: the 
+responsibilities of the people. One 
+must walk outside with .it., past 
+street signs far away from home that 
+remind one of what has already been 
+experienced is yet, somehow, still 
+around one in new places one is strange 
+to. So far removed from society's 
+duties, no one should pity you. There, 
+inwardly and outwardly, is where and 
+when I find myself contending with 
+a monster from Nietzsche: all that 
+is left of the famous, owld .it. I 
+lay claim to .it., knowing I'm not 
+.it. 
+
+II. 
+When a person is facing death, all 
+that one can trust is still with them 
+entirely, even if one goes down, is 
+one's stories up to that point. 
+Only one's own stories go to 
+the grave with oneself: that is the 
+person's bounty. 
+
+           Invoke 
+
+I. 
+just me and my environment. 
+just me and my thoughts. 
+just me and her. 
+just her. 
+
+I just need to be held. 
+around her, 
+I melt 
+yet stay contained. 
+I am her cup of water. 
+
+this hunt for answers. 
+they keep falling out 
+onto the ground. 
+she is the only answer. 
+
+focus on her. 
+it is her time, 
+Herstory. 
+
+II. 
+communication and touch. 
+waiting for the moon. 
+smoke and drink on the ground. 
+look only inward. 
+
+           Evoke 
+
+I. 
+A chicken farmer builds a two-story 
+cabin on a lake in Maine. On the other 
+side of the dirt road in these woods, 
+his workshop: a woodshed. 
+
+One day, the State shows up and tells 
+Mel to pick which building to keep 
+because only one is allowed on his lot. 
+
+Later, the State comes to check on Mel 
+and finds both buildings still there. 
+Mel tells the State to notice the 
+trailer with wheels upholding his 
+woodshed. because it moves, it can stay. 
+
+II. 
+Mel is driving down the dirt road to his 
+cabin, one day. He spots a truck turned 
+over in the ditch on the side of the 
+road. He finds a high ranking military 
+commander. Mel offers to drive him 
+where he must have needed to go before 
+the accident. 
+
+Mel finds out this is one of the men 
+that conducts the air drops on Mel's 
+lake. Anybody of the lake knows about 
+the Air Force jets that divebomb and 
+hover over the lake like any of the 
+loons taking flight. It's just practice, 
+the lake never gets assaulted. 
+
+The next day, the man Mel helped knocks 
+on Mel's cabin door. Mel lets him in. 
+The man unrolls a map with circles of 
+where all the deer are in the nearby 
+area because the man found out Mel 
+likes to hunt deer. because two men 
+found out one thing about the other, 
+both catch a break: a stepping stone 
+for one's next move. 
 
            Contents 
 
@@ -198,7 +302,7 @@ Sites
 Triangle 
 
            -------------- 
-           Delaware: 
+           Hudson: 
            Third Quarters 
            -------------- 
 
@@ -211,9 +315,22 @@ Sites
 Triangle 
 
            --------------- 
-           Chesapeake: 
+           Delaware: 
            Fourth Quarters 
            --------------- 
+
+           Contents 
+
+Introduction 
+Candles 
+Walks 
+Sites 
+Triangle 
+
+           -------------- 
+           Chesapeake: 
+           Fifth Quarters 
+           -------------- 
 
            Contents 
 
@@ -264,7 +381,7 @@ Chest
 Introduction 
 Drink 
 Smoke 
-Touch 
+Phaedrah 
 Landscape 
 
 
@@ -307,7 +424,7 @@ Pipeline
 
 Introduction 
 Automatic 
-Bimble 
+Chess 
 Circles 
 Snake 
 
@@ -333,7 +450,7 @@ Wall
 
 Introduction 
 Table 
-Bank 
+Heist 
 Square 
 Map 
 
