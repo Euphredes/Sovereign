@@ -1,6 +1,6 @@
 
 
-           SOVEREIGN 
+           SHIP 
            A NOTEBOOK 
 
 
@@ -31,25 +31,37 @@ BOUNTIFUL
 
            Storyline 
 
+Opponent 
+ Maslow's Pyramid 
+Game 
+ Heist 
+Monster 
+ Penal Colony 
+Outward 
+ Physical Adventure 
+Inward 
+ Obstacle Course 
+
            Approach 
+
+Problem 
+ Slitherlink Knapsack 
+Sets 
+ Destinations 
+ Traps 
+ Items 
+ Storages 
+Solver 
+ Greedy 
 
            Responsibilities 
 
-Free Masons, Industrialists, and 
-Philosophers are sources of inspiration 
-for my life's work. I physically and 
-mentally want to build and manage 
-systems from the ground up: one for my 
-individuality and one for my 
-environment. 
-
-Maslows Hierarchy of Needs: my opponent. 
-Capture The Flag: my game. 
-Bridge Troll: penal colony. 
-Wisp: euphoria. 
-Outward: physical adventure. 
-Inward: mental obstacle course. 
-
+Mentally 
+ Silence 
+Physically 
+ Momentum 
+Spiritually 
+ Focus 
 
            AUTHORITY 
            A PHILOSOPHY 
@@ -65,19 +77,7 @@ Introduction
 Counties 
 Person 
 Table 
-Mysticism 
-
-           --------- 
-           Haverhill 
-           --------- 
-
-           Contents 
-
-Introduction 
-Haverhill 
-Bradford 
-Lawrence 
-Hampton 
+Mystery 
 
            ---- 
            J.G. 
@@ -103,9 +103,9 @@ Sophomore
 Deans 
 PhD 
 
-           ------- 
-           Outside 
-           ------- 
+           ------ 
+           Pirate 
+           ------ 
 
            Contents 
 
@@ -132,6 +132,18 @@ Love
 Trials 
 Loyalty 
 
+           ------ 
+           Walden 
+           ------ 
+
+           Contents 
+
+Introduction 
+Candles 
+Walks 
+Sites 
+Triangle 
+
            ----------- 
            Bridgewater 
            ----------- 
@@ -141,7 +153,19 @@ Loyalty
 Introduction 
 Candles 
 Walks 
-Swamp 
+Sites 
+Triangle 
+
+           -------- 
+           Delaware 
+           -------- 
+
+           Contents 
+
+Introduction 
+Candles 
+Walks 
+Sites 
 Triangle 
 
            ---------- 
@@ -153,31 +177,7 @@ Triangle
 Introduction 
 Candles 
 Walks 
-Bay 
-Triangle 
-
-           ------ 
-           Boston 
-           ------ 
-
-           Contents 
-
-Introduction 
-Candles 
-Walks 
-Walden 
-Triangle 
-
-           ------------ 
-           Philadelphia 
-           ------------ 
-
-           Contents 
-
-Introduction 
-Candles 
-Walks 
-Delaware 
+Sites 
 Triangle 
 
 
