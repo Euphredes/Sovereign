@@ -101,9 +101,10 @@ Spiritually
            A PHILOSOPHY 
 
 
-           --------- 
-           Greanleaf 
-           --------- 
+           ---------- 
+           Greanleaf: 
+           A Practice 
+           ---------- 
 
            Contents 
 
@@ -113,9 +114,10 @@ Person
 Table 
 Mystery 
 
-           ---- 
-           J.G. 
-           ---- 
+           ------------- 
+           J.G.: 
+           A Sovereignty 
+           ------------- 
 
            Contents 
 
@@ -125,9 +127,10 @@ Virtues
 Initiation 
 Geometry 
 
-           ------ 
+           ------------ 
            R.I.T. 
-           ------ 
+           A Discipline 
+           ------------ 
 
            Contents 
 
@@ -137,9 +140,10 @@ Sophomore
 Deans 
 PhD 
 
-           ------ 
-           Pirate 
-           ------ 
+           ------------- 
+           Pirate: 
+           A Distributor 
+           ------------- 
 
            Contents 
 
@@ -154,9 +158,10 @@ Chesapeake
            A SPIRITUALITY 
 
 
-           -------- 
-           Phaedrah 
-           -------- 
+           --------- 
+           Phaedrah: 
+           A Partner 
+           --------- 
 
            Contents 
 
@@ -166,9 +171,10 @@ Love
 Trials 
 Loyalty 
 
-           ------ 
-           Walden 
-           ------ 
+           -------------- 
+           Walden: 
+           First Quarters 
+           -------------- 
 
            Contents 
 
@@ -178,9 +184,10 @@ Walks
 Sites 
 Triangle 
 
-           ----------- 
-           Bridgewater 
-           ----------- 
+           --------------- 
+           Bridgewater: 
+           Second Quarters 
+           --------------- 
 
            Contents 
 
@@ -190,9 +197,10 @@ Walks
 Sites 
 Triangle 
 
-           -------- 
-           Delaware 
-           -------- 
+           -------------- 
+           Delaware: 
+           Third Quarters 
+           -------------- 
 
            Contents 
 
@@ -202,9 +210,10 @@ Walks
 Sites 
 Triangle 
 
-           ---------- 
-           Chesapeake 
-           ---------- 
+           --------------- 
+           Chesapeake: 
+           Fourth Quarters 
+           --------------- 
 
            Contents 
 
@@ -219,9 +228,10 @@ Triangle
            A PSYCHOLOGY 
 
 
-           -------- 
-           Campsite 
-           -------- 
+           ---------- 
+           Campsite: 
+           A Homebase 
+           ---------- 
 
            Contents 
 
@@ -231,9 +241,10 @@ Waterfront
 Sites 
 Winter 
 
-           --------- 
-           Artifacts 
-           --------- 
+           ---------- 
+           Artifacts: 
+           A Treasury 
+           ---------- 
 
            Contents 
 
@@ -243,9 +254,10 @@ Books
 Altar 
 Chest 
 
-           -------- 
-           Pleasure 
-           -------- 
+           ----------- 
+           Pleasure: 
+           A Grounding 
+           ----------- 
 
            Contents 
 
@@ -260,9 +272,10 @@ Landscape
            A MAN 
 
 
-           ---------- 
-           Consultant 
-           ---------- 
+           ------------------ 
+           Consultant: 
+           A Fork In The Road 
+           ------------------ 
 
            Contents 
 
@@ -272,9 +285,10 @@ Flow
 Evasion 
 Inventory 
 
-           -------- 
-           Engineer 
-           -------- 
+           --------- 
+           Engineer: 
+           A Career 
+           --------- 
 
            Contents 
 
@@ -284,9 +298,10 @@ Graphs
 Models 
 Pipeline 
 
-           ------ 
-           Walker 
-           ------ 
+           --------- 
+           Walker: 
+           A Floater 
+           --------- 
 
            Contents 
 
@@ -296,9 +311,10 @@ Bimble
 Circles 
 Snake 
 
-           ------- 
-           Fighter 
-           ------- 
+           -------- 
+           Fighter: 
+           An Asset 
+           -------- 
 
            Contents 
 
@@ -308,9 +324,10 @@ Headlock
 Brawl 
 Wall 
 
-           ---- 
-           Poet 
-           ---- 
+           --------- 
+           Poet: 
+           A Calling 
+           --------- 
 
            Contents 
 
@@ -320,9 +337,10 @@ Bank
 Square 
 Map 
 
-           --------- 
-           Euphredes 
-           --------- 
+           ---------- 
+           Euphredes: 
+           A Movie
+           ---------- 
 
            Contents 
 
